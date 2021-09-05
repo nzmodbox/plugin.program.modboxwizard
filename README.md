@@ -1,7 +1,8 @@
-# plugin.program.openwizard
-OpenWizard
+# plugin.program.modboxwizard
+ModboxWizard
 
-# THIS PROJECT IS NO LONGER IN DEVELOPMENT.
+This is a fork of OpenWizard
+
 
 OpenWizard was created to help the Kodi community out and help get rid of the broken personal wizards that are floating around. As this is a work in progress, a repository is highly recommended, but if you prefer not to, there is a built-in auto-updater.
 
